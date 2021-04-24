@@ -38,11 +38,6 @@ Data Scientist | Coder | Scripter
 
 <br><br>
 
-<details>
-  <summary> <b> My github stats </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb2001nov&show_icons=true&locale=en&layout=compact" alt="sb2001nov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb2001nov&show_icons=true&locale=en" alt="sb2001nov" /></p>
