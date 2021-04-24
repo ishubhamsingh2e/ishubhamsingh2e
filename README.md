@@ -35,7 +35,6 @@ Data Scientist | Coder | Scripter
   <code><img width="40px" src="https://img.icons8.com/plasticine/2x/gmail.png" /></code>
 </a>
 
-<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb2001nov&show_icons=true&locale=en" alt="sb2001nov" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb2001nov&show_icons=true&locale=en&layout=compact" alt="sb2001nov" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb2001nov&" alt="sb2001nov" /></p>
