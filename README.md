@@ -42,7 +42,10 @@ Data Scientist | Coder | Scripter
   <summary> <b> My github stats </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Sb2001nov&hide=["issues","stars"]&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb2001nov&show_icons=true&locale=en&layout=compact" alt="sb2001nov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb2001nov&show_icons=true&locale=en" alt="sb2001nov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sb2001nov&" alt="sb2001nov" /></p>
+
