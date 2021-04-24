@@ -9,7 +9,7 @@
 
 # I'm Shubham Singh
 
-Data Scientist | Coder | Scripter
+Data Analyst | Coder | Scripter
 
 ## 🧐About me: 
 
