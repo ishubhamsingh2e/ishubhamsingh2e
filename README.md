@@ -14,7 +14,7 @@ Data Analyst | Coder | Scripter
 ## 🧐About me: 
 
 * Currently I’m pursuing my bachelors in computer Application from Vivekananda Institute of Professional Studies.
-* I am not an experienced person but I’m sharp at my skills.
+* I’m sharp at my skills.
 * Expert in statistics and drawing insites.
 * Learning about many new things and trying out everything i can.
 
