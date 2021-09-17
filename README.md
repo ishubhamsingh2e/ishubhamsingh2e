@@ -31,7 +31,7 @@ Data Analyst | Coder | Scripter
 
 ## 💻You can find me on:
 
-<a href="https://www.linkedin.com/in/shubham-singh-596046202/">
+<a href="https://www.linkedin.com/in/shubham-singh-6900861ba/">
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></code>
 </a>
 <a href = "mailto: sb2001nov@gmail.com">
