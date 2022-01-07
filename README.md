@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb2001nov&show_icons=true&locale=en&layout=compact" alt="sb2001nov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sb2001nov&show_icons=true&locale=en" alt="sb2001nov" /></p>
+<p>&nbsp;<img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api?username=sb2001nov&show_icons=true&locale=en" alt="sb2001nov" /></p>
