@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JAVASCRIPT BEHIND THE SCENES](https://dev.to/sb2001nov/javascript-behind-the-scenes-394n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
