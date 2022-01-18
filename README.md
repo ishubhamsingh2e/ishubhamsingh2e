@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Terminal Setup Guide For Developers](https://dev.to/sb2001nov/terminal-setup-guide-for-developers-38j3)
 - [JAVASCRIPT BEHIND THE SCENES](https://dev.to/sb2001nov/javascript-behind-the-scenes-394n)
 <!-- BLOG-POST-LIST:END -->
 
