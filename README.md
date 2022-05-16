@@ -23,8 +23,11 @@
 ### **Blogs posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Setup Guide For Developers](https://dev.to/sb2001nov/terminal-setup-guide-for-developers-38j3)
-- [JAVASCRIPT BEHIND THE SCENES](https://dev.to/sb2001nov/javascript-behind-the-scenes-394n)
+- [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-3](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-3-1eij)
+- [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-2](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-2-d5o)
+- [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-1](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-i-3b6c)
+- [OwnCloud Setup for Fedora Based System](https://dev.to/ishubhamsingh2e/owncloud-setup-for-fedora-based-system-5d0b)
+- [Flask Web-App Setup Using WSGI and Apache or httpd on Debian and fedora based servers](https://dev.to/ishubhamsingh2e/flask-web-app-setup-using-wsgi-and-apache-or-httpd-on-debian-and-fedora-based-servers-2063)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left"><b>Connect with me:</b></h3>
