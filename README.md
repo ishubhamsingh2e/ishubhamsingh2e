@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python/Statistics/Data**
 
-- 📫 How to reach me **sb2001nov@gmail.com**
+- 📫 How to reach me **ishubhamsingh2e@gmail.com**
 
 ### **Blogs posts**
 
