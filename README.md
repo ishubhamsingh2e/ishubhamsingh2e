@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ishubhamsingh2e](https://dev.to/ishubhamsingh2e)
 
-- 💬 Ask me about **Python/Statistics/Data**
+- 💬 Ask me about **Python | Statistics | Data**
 
 - 📫 How to reach me **ishubhamsingh2e@gmail.com**
 
