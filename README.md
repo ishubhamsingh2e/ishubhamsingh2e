@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Go**
 
-- 👨‍💻 All of my projects are available at [sb2001nov.github.io/portfolio](https://sb2001nov.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [ishubhamsingh2e.github.io/portfolio](https://ishubhamsingh2e.github.io/portfolio)
 
-- 📝 I regularly write articles on [talkcodeonly.blogspot.com](https://talkcodeonly.blogspot.com)
+- 📝 I regularly write articles on [https://dev.to/ishubhamsingh2e](https://dev.to/ishubhamsingh2e)
 
 - 💬 Ask me about **Python/Statistics/Data**
 
