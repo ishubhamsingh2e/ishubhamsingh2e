@@ -23,11 +23,11 @@
 ### **Blogs posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Mechanics of Neural Network](https://dev.to/ishubhamsingh2e/mechanics-of-neural-network-2gl0)
 - [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-5](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-5-528e)
 - [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-4](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-4-5gkf)
 - [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-3](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-3-1eij)
 - [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-2](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-2-d5o)
-- [Understanding Data For Data Analytics, Data Science, and Machine Learning – Part-1](https://dev.to/ishubhamsingh2e/understanding-data-for-data-analytics-data-science-and-machine-learning-part-i-3b6c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left"><b>Connect with me:</b></h3>
