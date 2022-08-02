@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <p align="center">
-  <br><br>
-  <img src="static/main.svg" width="30%">
-  <br><br>
+  <br>
 </p>
 <h3 align="center">I'm passionate about technology, innovation, gadgets, data analysis, and content writing. I am currently perusing degree in computer application from India. Humble yet capable, I am a problem solver who finds it easy to learn new things, a computer hardware specialist with skills in data and data analysis and content writing, computer geek with a flair for languages.</h3>
 
