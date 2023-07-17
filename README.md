@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Robotics**
 
-- 👨‍💻 All of my projects are available at [ishubhamsingh.me](https://ishubhamsingh.me)
+- 👨‍💻 All of my projects are available at [ishubhamsingh2e.studio](https://ishubhamsingh2e.studio)
 
 - 📝 I regularly write articles on [https://dev.to/ishubhamsingh2e](https://dev.to/ishubhamsingh2e)
 
